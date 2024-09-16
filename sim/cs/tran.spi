@@ -28,7 +28,7 @@ R2 VBIAS VG 1k
 
 *- Common source amplifier
 C1 VIN VG 1p
-R3 VDD_1V8 VOUT 1k
+R3 VDD_1V8 VOUT 5k
 XM2 VOUT VG VSS VSS sky130_fd_pr__nfet_01v8 L=0.2 W=1 M=10
 
 *----------------------------------------------------------------
